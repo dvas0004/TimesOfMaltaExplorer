@@ -11,6 +11,11 @@ Using Word2Vec to explore [Times Of Malta](https://timesofmalta.com/) national n
 - [Times Of Malta - Part 1 - Article Clustering](https://youtu.be/uQ6S-3N7S8A)
 - [Times Of Malta - Part 2 - Word Graphs](https://youtu.be/yF_zuriNsF4)
 
+## Online Demos
+
+- [Article Clustering](https://dvas0004.github.io/TimesOfMaltaExplorer/ArticleClusters/)
+- ["Plastic" Word Graph Network](https://dvas0004.github.io/TimesOfMaltaExplorer/Graphs/Plastic/)
+
 ### Tech used:
 
 |  |  |
